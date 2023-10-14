@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#ele1{
+    width: 400px;
+    height: 400px;
+    background: green;
+}
